@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practical11</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="WelcomeUser">Welcome</string>
+    <string name="logout">Log out</string>
+</resources>
