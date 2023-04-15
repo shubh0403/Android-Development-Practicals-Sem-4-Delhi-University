@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practical8</string>
+    <string name="activity_lifecycle">"Activity Lifecycle</string>
+    <string name="fragment_lifecycle">"Fragment Lifecycle</string>
+</resources>
